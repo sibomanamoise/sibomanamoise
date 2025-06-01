@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sibomanamoise
 - I located in North-Gakenke-Muzo-Kiryamo-Gahondo
-- 👀 I’m student in Collegio Santo Antonio Maria Zaccaria located in North-Gicumbi-Muko-Rebero-Karundi
+- 👀 I’m student in Collegio Santo Antonio Maria Zaccaria located in North-Gicumbi-Muko-Rebero-Karundi(2022-2025)
 - 🌱 I’m currently learning Software Development
 - 💞️ I’m looking to collaborate on promoting my knowledges and helping me in differeant tasks.
 - 📫My goals is to be good developer
